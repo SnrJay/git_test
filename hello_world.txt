@@ -1,1 +1,2 @@
 This is some advanced level remote programing
+If i did it right I just channged the default text editor om my terminal from vim for anytime I want to write a commit message
